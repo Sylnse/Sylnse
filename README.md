@@ -89,12 +89,16 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">Currently Studying at Cebu Institute of Technology - University</p>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img height="100" src="https://cit.edu/wp-content/uploads/2023/07/cit-logo.png"  />
 </div>
 
 ###
