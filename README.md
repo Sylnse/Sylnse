@@ -23,6 +23,9 @@
   <a href="https://codepen.io/Sylense" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
+  <a href="https://myaccount.google.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -41,7 +44,7 @@
 
 ###
 
-<p align="left">I'm  21 years old and I'm from Bantayan Island, Cebu<br><br>🎓Education<br>- 📚 A 3rd-year college student currently pursuing a Bachelor of Science in Information Technology (BSIT)<br>- ⚡Enthusiastic about coding, cybersecurity, and problem-solving. <br>- ✊Constantly learning, evolving, and embracing the digital realm's endless possibilities. <br><br>🖥️ Technical Skills<br>-Web Development: HTML, CSS, front-end frameworks like React or Angular, back-end frameworks like Node.js<br>-Proficient in C++, C, CSS, Java, and JavaScript. <br><br>🏅Hobbies and Activities<br>-Basketball and Ultimate Frisbee:<br>When not lost in lines of code, you'll find me on the court sinking hoops or chasing that perfect flight of a frisbee. Basketball and ultimate frisbee fuel my passion for teamwork, strategy, and the exhilaration of athletic challenges.<br><br>✍️Interest<br>Expanding Programming Knowledge.  I'm captivated by the endless possibilities programming offers. Constantly hungry to deepen my understanding, I'm dedicated to expanding my knowledge base in programming languages, frameworks, and cutting-edge technologies.<br><br>💻Experience <br>Web Development.<br>With hands-on experience during our class in web development, I've delved into crafting digital experiences that seamlessly blend functionality and aesthetics. From HTML to CSS, JavaScript to backend frameworks, my journey in web development continues to be an exciting learning curve.</p>
+<p align="left">I'm  21 years old and I'm from Bantayan Island, Cebu<br><br>📥Reach me: earonjeffalojacin111@gmail.com/earonjefff.alojacin@cit.edu<br><br>🎓Education<br>- 📚 A 3rd-year college student currently pursuing a Bachelor of Science in Information Technology (BSIT)<br>- ⚡Enthusiastic about coding, cybersecurity, and problem-solving. <br>- ✊Constantly learning, evolving, and embracing the digital realm's endless possibilities. <br><br>🖥️ Technical Skills<br>-Web Development: HTML, CSS, front-end frameworks like React or Angular, back-end frameworks like Node.js<br>-Proficient in C++, C, CSS, Java, and JavaScript. <br><br>🏅Hobbies and Activities<br>-Basketball and Ultimate Frisbee:<br>When not lost in lines of code, you'll find me on the court sinking hoops or chasing that perfect flight of a frisbee. Basketball and ultimate frisbee fuel my passion for teamwork, strategy, and the exhilaration of athletic challenges.<br><br>✍️Interest<br>Expanding Programming Knowledge.  I'm captivated by the endless possibilities programming offers. Constantly hungry to deepen my understanding, I'm dedicated to expanding my knowledge base in programming languages, frameworks, and cutting-edge technologies.<br><br>💻Experience <br>Web Development.<br>With hands-on experience during our class in web development, I've delved into crafting digital experiences that seamlessly blend functionality and aesthetics. From HTML to CSS, JavaScript to backend frameworks, my journey in web development continues to be an exciting learning curve.</p>
 
 ###
 
